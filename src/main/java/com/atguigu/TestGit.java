@@ -15,5 +15,8 @@ public class TestGit {
         System.out.printf( "hello world!");
         System.out.printf( "hello world!");
         System.out.println("haha");
+        System.out.println("haha");
+        System.out.println("haha");
+        System.out.println("haha");
     }
 }
